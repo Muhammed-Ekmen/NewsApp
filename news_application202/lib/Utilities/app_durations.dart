@@ -1,0 +1,1 @@
+Duration durationOfVeryLow=const Duration(milliseconds: 500);
